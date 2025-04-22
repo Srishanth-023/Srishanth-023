@@ -31,6 +31,8 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
 </picture>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Srishanth-023&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 

@@ -17,7 +17,7 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 
 
 ### ⚡ GitHub Activity Graph
-[![Srishanth's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srishanth-023&theme=react-dark)](https://github.com/Srishanth-023)
+[![Srishanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srishanth-023&theme=react-dark)](https://github.com/Srishanth-023)
 
 
 ## 🏆 GitHub Trophies

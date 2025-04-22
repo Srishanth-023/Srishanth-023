@@ -2,6 +2,11 @@
 Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial Intelligence and Data Science (I - year) in KGiSL Institute of Technology. 🚀<br><br>🎯 Turning ideas into impactful tech | 💻 Web Dev. + AI & ML Explorer | 📈 Always Building<br><br>I'm a passionate developer who loves blending creativity with code to craft meaningful solutions.<br><br>An enthusiastic student keen to explore the depths of the developing world ! 🐦‍🔥<br><br><br>
 
 
+
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzd2t0ajd4ejIxNW55OWY4c2RyNG9nMHU2Z2dwYnRucHBnOGR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KQQtH893eB) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sri.shanth.39982/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sri.23._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-shanth-0520a9315/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@srishanth232007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srishanth232007/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sri-Shanth-49) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Adventurous_Key_3712/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sri_shanth13106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srishanth232007@gmail.com) 
 
@@ -42,9 +47,5 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
 </picture>
-
-
-![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzd2t0ajd4ejIxNW55OWY4c2RyNG9nMHU2Z2dwYnRucHBnOGR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

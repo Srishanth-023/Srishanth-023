@@ -19,8 +19,10 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Srishanth-023&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Srishanth-023&limit=5&theme=date_night&combine_all_yearly_contributions=true)
@@ -28,6 +30,8 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 ---
 [![](https://visitcount.itsvg.in/api?id=Srishanth-023&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake-dark.svg" />

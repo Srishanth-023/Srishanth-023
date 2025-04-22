@@ -17,7 +17,7 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 
 
 ### ⚡ GitHub Activity Graph
-[![Srishanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srishanth-023&theme=react-dark)](https://github.com/Srishanth-023)
+[![Srishanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srishanth-023&theme=default)](https://github.com/Srishanth-023)
 
 
 ## 🏆 GitHub Trophies
@@ -41,14 +41,6 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Srishanth-023/Srishanth-023/output/github-snake.svg" />
-</picture>
-
-
-### 🧊 3D Contribution Calendar
-<picture>
-  <source srcset="https://github.com/Srishanth-023/3d-contrib/raw/main/profile-light.svg" media="(prefers-color-scheme: light)" />
-  <source srcset="https://github.com/Srishanth-023/3d-contrib/raw/main/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://github.com/Srishanth-023/3d-contrib/raw/main/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 

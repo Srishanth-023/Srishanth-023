@@ -44,4 +44,7 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 </picture>
 
 
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzd2t0ajd4ejIxNW55OWY4c2RyNG9nMHU2Z2dwYnRucHBnOGR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

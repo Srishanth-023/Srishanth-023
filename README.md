@@ -16,6 +16,10 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishanth-023&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+### ⚡ GitHub Activity Graph
+[![Srishanth's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srishanth-023&theme=react-dark)](https://github.com/Srishanth-023)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Srishanth-023&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 

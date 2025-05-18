@@ -4,7 +4,6 @@ Hey there! 👋 I'm Srishanth.<br><br>I'm currently pursuing B.TECH. Artificial 
 
 
 ![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzd2t0ajd4ejIxNW55OWY4c2RyNG9nMHU2Z2dwYnRucHBnOGR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
-![Banner]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzd2t0ajd4ejIxNW55OWY4c2RyNG9nMHU2Z2dwYnRucHBnOGR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif))
 
 
 ## 🌐 Socials:
